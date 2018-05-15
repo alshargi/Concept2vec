@@ -1,0 +1,45 @@
+class,label
+http://dbpedia.org/ontology/ArcherPlayer,Archer Player
+http://dbpedia.org/ontology/AthleticsPlayer,athletics player
+http://dbpedia.org/ontology/AustralianRulesFootballPlayer,Australian rules football player
+http://dbpedia.org/ontology/BadmintonPlayer,badminton player
+http://dbpedia.org/ontology/BaseballPlayer,baseball player
+http://dbpedia.org/ontology/BasketballPlayer,basketball player
+http://dbpedia.org/ontology/Bodybuilder,bodybuilder
+http://dbpedia.org/ontology/Boxer,boxer
+http://dbpedia.org/ontology/BullFighter,bullfighter
+http://dbpedia.org/ontology/Canoeist,canoeist
+http://dbpedia.org/ontology/ChessPlayer,chess player
+http://dbpedia.org/ontology/Cricketer,cricketer
+http://dbpedia.org/ontology/Cyclist,cyclist
+http://dbpedia.org/ontology/DartsPlayer,darts player
+http://dbpedia.org/ontology/Fencer,fencer
+http://dbpedia.org/ontology/GaelicGamesPlayer,Gaelic games player
+http://dbpedia.org/ontology/GolfPlayer,golf player
+http://dbpedia.org/ontology/GridironFootballPlayer,gridiron football player
+http://dbpedia.org/ontology/Gymnast,gymnast
+http://dbpedia.org/ontology/HandballPlayer,handball player
+http://dbpedia.org/ontology/HighDiver,high diver
+http://dbpedia.org/ontology/HorseRider,horse rider
+http://dbpedia.org/ontology/Jockey,jockey (horse racer)
+http://dbpedia.org/ontology/LacrossePlayer,lacrosse player
+http://dbpedia.org/ontology/MartialArtist,martial artist
+http://dbpedia.org/ontology/MotorsportRacer,motorsport racer
+http://dbpedia.org/ontology/NationalCollegiateAthleticAssociationAthlete,national collegiate athletic association athlete
+http://dbpedia.org/ontology/NetballPlayer,netball player
+http://dbpedia.org/ontology/PokerPlayer,poker player
+http://dbpedia.org/ontology/Rower,rower
+http://dbpedia.org/ontology/RugbyPlayer,rugby player
+http://dbpedia.org/ontology/SnookerPlayer,snooker player
+http://dbpedia.org/ontology/SoccerPlayer,soccer player
+http://dbpedia.org/ontology/SquashPlayer,squash player
+http://dbpedia.org/ontology/Surfer,surfer
+http://dbpedia.org/ontology/Swimmer,swimmer
+http://dbpedia.org/ontology/TableTennisPlayer,table tennis player
+http://dbpedia.org/ontology/TeamMember,Team member
+http://dbpedia.org/ontology/TennisPlayer,tennis player
+http://dbpedia.org/ontology/VolleyballPlayer,volleyball player
+http://dbpedia.org/ontology/WaterPoloPlayer,water polo Player
+http://dbpedia.org/ontology/WinterSportPlayer,winter sport Player
+http://dbpedia.org/ontology/Wrestler,wrestler
+http://dbpedia.org/ontology/Athlete,athlete
