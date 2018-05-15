@@ -1,0 +1,12 @@
+1# - cosine wikiCbowSum_Actor :	 0.384
+2# -cosine wikiCbowSum_Book :	 0.234
+3# -cosine wikiCbowSum_city	 0.389
+4# -cosine wikiCbowSum_company:	 0.656
+5# -cosine wikiCbowSum_country:	 0.404
+6# -cosine wikiCbowSum_movie:	 0.309
+7# -cosine wikiCbowSum_organization:	 0.424
+8# - cosine wikiCbowSum_person:	 -0.095
+9# - cosine wikiCbowSum_place:	 0.245
+10# - cosine wikiCbowSum_president:	 0.326
+11# -cosine wikiCbowSum_university:	 0.823
+12# -cosine wikiCbowSum_writer:	 0.417

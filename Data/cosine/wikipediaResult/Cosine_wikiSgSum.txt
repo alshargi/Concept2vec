@@ -1,0 +1,12 @@
+1# - cosine wikiSgSum_Actor :	 0.398
+2# -cosine wikiSgSum_Book :	 0.559
+3# -cosine wikiSgSum_city	 0.422
+4# -cosine wikiSgSum_company:	 0.607
+5# -cosine wikiSgSum_country:	 0.45
+6# -cosine wikiSgSum_movie:	 0.476
+7# -cosine wikiSgSum_organization:	 0.538
+8# - cosine wikiSgSum_person:	 0.291
+9# - cosine wikiSgSum_place:	 0.469
+10# - cosine wikiSgSum_president:	 0.434
+11# -cosine wikiSgSum_university:	 0.768
+12# -cosine wikiSgSum_writer:	 0.454

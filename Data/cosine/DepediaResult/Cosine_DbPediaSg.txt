@@ -1,0 +1,12 @@
+1# - cosine DbPediaSg_Actor :	 0.311
+2# -cosine DbPediaSg_Book :	 0.315
+3# -cosine DbPediaSg_city	 0.339
+4# -cosine DbPediaSg_company:	 0.346
+5# -cosine DbPediaSg_country:	 0.226
+6# -cosine DbPediaSg_movie:	 0.243
+7# -cosine DbPediaSg_organization:	 0.279
+8# - cosine DbPediaSg_person:	 0.422
+9# - cosine DbPediaSg_place:	 0.711
+10# - cosine DbPediaSg_president:	 0.252
+11# -cosine DbPediaSg_university:	 0.279
+12# -cosine DbPediaSg_writer:	 0.298
